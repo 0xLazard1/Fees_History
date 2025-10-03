@@ -8,7 +8,7 @@ cd backend
 pip install hypersync fastapi uvicorn web3 pandas
 ```
 
-Configurez votre token dans `backend/main.py` ligne 8.
+Configurez votre token depuis envio/hypersync (token) dans `backend/main.py` ligne 8.
 
 ### Frontend
 ```bash
